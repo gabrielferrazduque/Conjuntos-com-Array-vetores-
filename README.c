@@ -1,6 +1,6 @@
 # Conjuntos-com-Array-vetores-
-Conjuntos com Array (vetores)
-include <stdio.h>   
+#Conjuntos com Array (vetores)
+#include <stdio.h>   
 #include<math.h>  
 #include<Array.h>
 
