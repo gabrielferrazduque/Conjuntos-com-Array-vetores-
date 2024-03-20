@@ -12,7 +12,56 @@ printf("Conjuntos com Array (vetores)");(imprimir_array sizeA vectorA sizeB vect
 
 
 }  
+ /// @brief 
+  /// @return 
+  int  main (){ } 
+  int vetA(4), int vetA(4),vetA(4),i,(soma); 
+  int vetB(5) , int vetB(5),vetB(4),i(soma); 
+  int vetC(6) , int vetC(6), vetC(6),i(soma);
+   
+   int for  (i= 0 i , vetA , vetB , vetC);  
+   int for (i = 0 i , vetA, vetB ,vetC);  
+int for soma (0)(i =0 , vetA , vetB ,vetC ) i ();{  
 
+
+float double (); 
+} 
+while (/*(i = 0 i , vetA, vetB ,vetC)*/)
+{
+ register soma(vetA,vetB,vetC); 
+
+} 
+(i = 0 i , vetA, vetB ,vetC);
+
+{  int vetA(4), int vetA(4),vetA(4),i,(soma); 
+  int vetB(5) , int vetB(5),vetB(4),i(soma); 
+  int vetC(6) , int vetC(6), vetC(6),i(soma); 
+
+ printf(); 
+ for(int = 0; i <qtd ;++i);{ 
+  printf(%d,vetor[i]); 
+{  
+  printf(");
+} 
+ {  int vetA(4), int vetA(4),vetA(4),i,(soma); 
+  int vetB(5) , int vetB(5),vetB(4),i(soma); 
+  int vetC(6) , int vetC(6), vetC(6),i(soma);
+    
+} 
+ printf(); 
+ for(int = 0; i <qtd ;++i);{ 
+  printf(%d,vetor[i]); 
+{  
+  printf(");
+}   
+    
+} 
+
+
+
+    \{}
+    return ();
+   
 
 
 
